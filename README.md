@@ -1,0 +1,14 @@
+# tulip-user 9 PKQ1.180904.001 9.6.27 release-keys
+- manufacturer: xiaomi
+- platform: sdm660
+- codename: tulip
+- flavor: tulip-user
+- release: 9
+- id: PKQ1.180904.001
+- incremental: 9.6.27
+- tags: release-keys
+- fingerprint: xiaomi/tulip/tulip:9/PKQ1.180904.001/9.6.27:user/release-keys
+- is_ab: false
+- brand: xiaomi
+- branch: tulip-user-9-PKQ1.180904.001-9.6.27-release-keys
+- repo: xiaomi_tulip_dump
